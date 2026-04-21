@@ -469,7 +469,7 @@ month,month_name,airline,origin,destination,dep_delay,arr_delay,year
 7,Jul,United,ORD,MIA,1.7,16.7,2024
 10,Oct,United,EWR,EWR,13.4,20.3,2024
 5,May,JetBlue,BOS,SLC,33.8,33.6,2024
-10,Oct,Delta,DEN,SLC,27.3,27.2,2024
+10,Oct,Delta,DEN,SLC,27.3,27.2,2025
 5,May,Delta,SFO,BOS,17.4,8.9,2024
 7,Jul,American,LAS,ORD,35.2,33.6,2024
 9,Sep,Southwest,IAH,IAH,15.8,22.2,2024
